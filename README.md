@@ -151,27 +151,38 @@
 
 #### 3.3. 기능설명
 ##### ` 메인 페이지 `
-- 상단 배너
-  - 3초에 마다 자동으로 내용이 넘어갑니다. <br/>
-    ![상단 배너](https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/4640389f-dcaf-4b78-916e-188c8e9c6ee7)
 
-- 공지사항
-  - 최근 5개의 공지사항을 보여줍니다.
-  - 발행된지 일주일이 안 된 공지사항은 new라는 mark표시를 해줍니다.
-  - 공지사항 글을 클릭하면 해당 공지사항 게시글로 이동합니다.
-  - 상단의 더보기 버튼을 클릭하면 공지사항 페이지로 이동합니다.<br/>
-    <img width="600px" alt="공지사항" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/7c425946-ff06-4b32-8b18-4119cc86e308">
+랜딩페이지
+<img width="1108" height="988" alt="image" src="https://github.com/user-attachments/assets/93eb0a4f-3954-413f-909a-743c430570c6" />
 
-- 이번 주 보너스 문제
-  - 이번 주의 보너스 점수를 주는 문제를 보여줍니다.
-  - 문제를 클릭하면, 해당 문제의 게시글로 이동합니다. <br/>
-    <img width="600px" alt="이번 주 보너스 문제" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/5c603984-8cf6-4524-84a6-5410bb6a8cbf">
+로그인 화면
+<img width="804" height="986" alt="image" src="https://github.com/user-attachments/assets/30949e9a-d6e1-4794-b8d0-efc55b37b065" />
 
-- 실시간 랭킹
-  - 상위 랭킹 10명의 유저를 보여줍니다.
-  - 상단의 더보기 버튼을 클릭하면 전체 랭킹 페이지로 이동합니다.<br/>
-    <img width="200px" alt="실시간 랭킹" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/8492e285-5423-4c00-bc46-400cbe733d35">
-<br/>
+회원 가입 화면
+<img width="589" height="900" alt="image" src="https://github.com/user-attachments/assets/433a61dc-04b4-46fa-8731-7ba50be6d65a" />
+
+메인 화면
+<img width="791" height="885" alt="image" src="https://github.com/user-attachments/assets/ea4a133d-da8d-4f78-8876-7cdf0a94b611" />
+
+AI 추천 결과
+<img width="599" height="866" alt="image" src="https://github.com/user-attachments/assets/66c2507f-1f04-49bd-966c-60438505235d" />
+
+같이 먹기 화면
+<img width="654" height="920" alt="image" src="https://github.com/user-attachments/assets/15b187bc-4374-4b10-9e70-d54ed462456a" />
+
+친구 추가 화면
+<img width="643" height="349" alt="image" src="https://github.com/user-attachments/assets/0a392c67-8014-4728-9795-772a51947bd7" />
+
+방문기록 화면
+<img width="574" height="839" alt="image" src="https://github.com/user-attachments/assets/21b97d4f-f0cc-41ea-81f9-54c886ee0e3d" />
+
+
+
+
+
+
+
+
 
 ##### ` 문제 페이지 `
 - 문제 목록
