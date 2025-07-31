@@ -79,7 +79,7 @@
 #### 3.1. 전체시스템 흐름도
 ##### 3.1.1 유저 플로우 차트
   > 로그인 <br/>
-  <img width="400px" alt="로그인 유저 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/FRIEND_userFlowChart.svg" />
+  <img width="400px" alt="로그인 유저 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/LOGIN_userFlowChart.svg" />
   
   > 친구 추가 <br/>
   <img width="400px" alt="친구 추가 유저 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/FRIEND_userFlowChart.svg" />
