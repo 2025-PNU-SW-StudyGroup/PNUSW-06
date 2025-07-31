@@ -152,28 +152,28 @@
 #### 3.3. 기능설명
 ##### ` 메인 페이지 `
 
-랜딩페이지
+- 랜딩페이지
 <img width="1108" height="988" alt="image" src="https://github.com/user-attachments/assets/93eb0a4f-3954-413f-909a-743c430570c6" />
 
-로그인 화면
+- 로그인 화면
 <img width="804" height="986" alt="image" src="https://github.com/user-attachments/assets/30949e9a-d6e1-4794-b8d0-efc55b37b065" />
 
-회원 가입 화면
+- 회원 가입 화면
 <img width="589" height="900" alt="image" src="https://github.com/user-attachments/assets/433a61dc-04b4-46fa-8731-7ba50be6d65a" />
 
-메인 화면
+- 메인 화면
 <img width="791" height="885" alt="image" src="https://github.com/user-attachments/assets/ea4a133d-da8d-4f78-8876-7cdf0a94b611" />
 
-AI 추천 결과
+- AI 추천 결과
 <img width="599" height="866" alt="image" src="https://github.com/user-attachments/assets/66c2507f-1f04-49bd-966c-60438505235d" />
 
-같이 먹기 화면
+- 같이 먹기 화면
 <img width="654" height="920" alt="image" src="https://github.com/user-attachments/assets/15b187bc-4374-4b10-9e70-d54ed462456a" />
 
-친구 추가 화면
+- 친구 추가 화면
 <img width="643" height="349" alt="image" src="https://github.com/user-attachments/assets/0a392c67-8014-4728-9795-772a51947bd7" />
 
-방문기록 화면
+- 방문기록 화면
 <img width="574" height="839" alt="image" src="https://github.com/user-attachments/assets/21b97d4f-f0cc-41ea-81f9-54c886ee0e3d" />
 
 
