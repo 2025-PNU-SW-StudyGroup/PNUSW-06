@@ -1,4 +1,3 @@
-#
 <div align="center">
 <img src="images/logo.png" width="80" alt="logo"/>
 </div>
@@ -123,29 +122,48 @@
 │       └── nginx.conf
 ```
 
-
-**추후 수정하겠습니다.**
-<br/><br/><br/><br/>
 #### 3.2. 전체시스템 흐름도
 - 유저 플로우 차트
-  > 코딩 역량강화 플랫폼의 회원가입 부분만 작성했습니다. <br/>
-  > 사용자의 행동 흐름을 도식화하여 보여줍니다.
-  <img width="400px" alt="유저 플로우 차트" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/c8de7c98-efd8-4f64-a39a-720faabccd78" />
+  > 로그인 <br/>
+  <img width="400px" alt="로그인 유저 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/FRIEND_userFlowChart.svg" />
+  
+  > 친구 추가 <br/>
+  <img width="400px" alt="친구 추가 유저 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/FRIEND_userFlowChart.svg" />
+  
+  > 식당 추천 <br/>
+  <img width="400px" alt="식당 추천 유저 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/RECOMMEND_userFlowChart.svg" />
+  
+  > 방문 기록 <br/>
+  <img width="400px" alt="방문 기록 유저 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/VISIT_userFlowChart.svg" />
 
 - 테스크 플로우 차트
-  > 코딩 역량강화 플랫폼의 로그인 부분만 작성했습니다. <br/>
-  > 주요 테스크의 프로세스를 도식화하여 보여줍니다.
-  <img width="400px" alt="테스크 플로우 차트" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/b83502a9-032d-4453-8687-428d54643610" />
+  > 로그인 <br/>
+  <img width="400px" alt="로그인 테스크 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/LOGIN_taskFlowChart.svg" />
+  
+  > 친구 추가 <br/>
+  <img width="400px" alt="친구 추가 테스크 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/FRIEND_taskFlowChart.svg" />
+  
+  > 식당 추천 <br/>
+  <img width="400px" alt="식당 추천 테스크 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/RECOMMEND_taskFlowChart.svg" />
+  
+  > 방문 기록 <br/>
+  <img width="400px" alt="방문 기록 테스크 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/VISIT_taskFlowChart.svg" />
 
 - 시스템 플로우 차트
-  > 코딩 역량강화 플랫폼의 로그인 부분만 작성했습니다. <br/>
-  > 테스크의 흐름에 따른 데이터 처리를 도식화하여 보여줍니다.
-  <img width="600px" alt="시스템 플로우 차트" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/1bfb66f0-446c-4450-8a81-a78bfe5ac9ce" />
-
+  > 로그인 <br/>
+  <img width="400px" alt="로그인 시스템 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/LOGIN_systemFlowChart.svg" />
+  
+  > 친구 추가 <br/>
+  <img width="400px" alt="친구 추가 시스템 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/FRIEND_systemFlowChart.svg" />
+  
+  > 식당 추천 <br/>
+  <img width="400px" alt="식당 추천 시스템 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/RECOMMEND_systemFlowChart.svg" />
+  
+  > 방문 기록 <br/>
+  <img width="400px" alt="방문 기록 시스템 플로우 차트" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/VISIT_systemFlowChart.svg" />
   
 - IA(Information Architecture)
-  > 정보나 시스템의 구조를 도식화하여 보여줍니다. <br/>
-  <img width="600px" alt="IA" src="https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/07d842fe-fb73-4079-97a3-58b2495ff331" />
+  <img width="600px" alt="IA" src="https://github.com/2025-PNU-SW-StudyGroup/PNUSW-06/blob/main/images/informationArchitecture.svg" />
 
 <br/>
 
