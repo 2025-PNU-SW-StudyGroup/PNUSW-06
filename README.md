@@ -154,6 +154,8 @@
 
 - 랜딩페이지
 <img width="1108" height="988" alt="image" src="https://github.com/user-attachments/assets/93eb0a4f-3954-413f-909a-743c430570c6" />
+<img width="647" height="877" alt="image" src="https://github.com/user-attachments/assets/255390c0-31f2-4b40-85af-8f94e75d050b" />
+
 
 - 로그인 화면
 <img width="804" height="986" alt="image" src="https://github.com/user-attachments/assets/30949e9a-d6e1-4794-b8d0-efc55b37b065" />
@@ -174,25 +176,8 @@
 <img width="643" height="349" alt="image" src="https://github.com/user-attachments/assets/0a392c67-8014-4728-9795-772a51947bd7" />
 
 - 방문기록 화면
-<img width="574" height="839" alt="image" src="https://github.com/user-attachments/assets/21b97d4f-f0cc-41ea-81f9-54c886ee0e3d" />
+<img width="546" height="659" alt="image" src="https://github.com/user-attachments/assets/d3863677-0837-49bf-87f1-4c91b4a3f94a" />
 
-
-
-
-
-
-
-
-
-##### ` 문제 페이지 `
-- 문제 목록
-  - 사용자가 설정한 한 번에 보여줄 문제 갯수 만큼 한 화면에 문제를 띄워줍니다.
-  - 검색창에서 문제의 제목 및 번호로 문제를 검색할 수 있습니다.
-  - 난이도, 영역, 카테고리 별로 문제를 볼 수 있습니다.
-  - 상단의 shuffle 이모지를 클릭하면 랜덤으로 선택된 문제 푸는 페이지로 이동합니다.
-  - 목록에서 문제를 클릭하면 해당 문제를 푸는 페이지로 이동합니다.
-    ![문제 목록](https://github.com/pnuswedu/SW-Hackathon-2024/assets/34933690/95afd0db-b5a7-4628-ac9c-164513a9e51b)
-<br/>
 
 
 #### 3.4. 기능명세서
